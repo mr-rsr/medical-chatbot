@@ -1,0 +1,88 @@
+{
+  "info": {
+    "clinic_name": "HealthCare Plus Medical Center",
+    "address": "123 Medical Plaza, Suite 400, Healthcare City, HC 12345",
+    "phone": "(555) 123-4567",
+    "email": "info@healthcareplus.com",
+    "hours": "Monday-Friday: 9:00 AM - 6:00 PM, Saturday: 11:00 AM - 2:00 PM, Sunday: Closed",
+    "emergency_contact": "For emergencies, call 911 or visit the nearest emergency room",
+    "directions": "Located in the Medical Plaza building at the intersection of Health Avenue and Wellness Boulevard. Take elevator to 4th floor, Suite 400 is on the right.",
+    "parking": "Free parking available in Medical Plaza garage. Visitor parking on levels 2-4. Disabled parking on level 1 near elevators. Valet service available Monday-Friday 8 AM - 5 PM.",
+    "payment_methods": "We accept cash, credit cards (Visa, MasterCard, American Express, Discover), debit cards, HSA/FSA cards, and checks.",
+    "billing_policy": "Payment is due at time of service. We will bill your insurance directly. Co-pays and deductibles must be paid at check-in. Payment plans available for balances over $500."
+  },
+  "faqs": [
+    {
+      "question": "What insurance plans do you accept?",
+      "answer": "We accept most major insurance plans including Blue Cross Blue Shield, Aetna, UnitedHealthcare, Cigna, Medicare, Medicaid, Humana, and Kaiser Permanente. We also accept self-pay patients. Please contact our billing department at (555) 123-4567 ext. 2 to verify your specific plan coverage before your appointment."
+    },
+    {
+      "question": "What should I bring to my first appointment?",
+      "answer": "For your first visit, please bring: (1) Valid photo ID (driver's license or passport), (2) Current insurance card (front and back), (3) List of current medications with dosages, (4) Any relevant medical records or test results from previous providers, (5) Completed new patient forms (available on our website or arrive 15 minutes early to complete). If you're under 18, a parent or legal guardian must accompany you."
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "We require at least 24 hours advance notice for appointment cancellations or rescheduling. Cancellations with less than 24 hours notice or no-shows may result in a $50 fee. You can cancel or reschedule through your confirmation email, our patient portal, or by calling (555) 123-4567. We understand emergencies happen - please call us to discuss special circumstances."
+    },
+    {
+      "question": "What is your late arrival policy?",
+      "answer": "Please arrive 10-15 minutes before your scheduled appointment time for check-in. If you arrive more than 15 minutes late, we may need to reschedule your appointment to avoid delays for other patients. Please call us at (555) 123-4567 if you're running late so we can accommodate you if possible."
+    },
+    {
+      "question": "What are your COVID-19 protocols?",
+      "answer": "For everyone's safety: (1) Masks are optional but recommended in waiting areas, (2) Hand sanitizer stations available throughout the clinic, (3) Enhanced cleaning between appointments, (4) Telehealth appointments available for follow-ups and consultations, (5) If you have COVID-19 symptoms, please call before arriving so we can arrange appropriate care. We follow current CDC guidelines."
+    },
+    {
+      "question": "Do you offer telehealth appointments?",
+      "answer": "Yes, we offer secure video telehealth appointments for follow-up visits, medication management, test result discussions, and certain consultations. Telehealth is not suitable for physical exams or procedures. When booking, specify that you prefer a telehealth appointment. You'll receive a secure video link via email 24 hours before your appointment. Ensure you have a device with camera and microphone, and a private space with good internet connection."
+    },
+    {
+      "question": "How do I get my prescription refilled?",
+      "answer": "Contact your pharmacy to request a refill, and they will send the request to our office. You can also call us directly at (555) 123-4567 or use our patient portal. Allow 48 hours for processing."
+    },
+    {
+      "question": "What are the different appointment types?",
+      "answer": "We offer General Consultation (30 min) for new concerns, Follow-up (15 min) for ongoing treatment, Physical Exam (45 min) for annual checkups, and Specialist Consultation (60 min) for complex cases."
+    },
+    {
+      "question": "Where can I park?",
+      "answer": "Free parking is available in the Medical Plaza parking garage. Visitor parking is on levels 2-4. Accessible parking spaces are on level 1 near the elevators. Valet parking service is available Monday-Friday 8:00 AM - 5:00 PM at the main entrance. Street parking is also available but may be limited during peak hours."
+    },
+    {
+      "question": "How do I get to your clinic?",
+      "answer": "We're located at 123 Medical Plaza, Suite 400, Healthcare City, HC 12345. The Medical Plaza building is at the intersection of Health Avenue and Wellness Boulevard. From the main entrance, take the elevator to the 4th floor. Suite 400 is on the right side of the hallway. Public transportation: Bus routes 15 and 42 stop at Medical Plaza. Rideshare drop-off is at the main entrance."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept multiple payment methods: cash, all major credit cards (Visa, MasterCard, American Express, Discover), debit cards, HSA/FSA cards, and personal checks. Payment is due at the time of service. For patients with insurance, we'll bill your insurance company directly, but co-pays and deductibles must be paid at check-in."
+    },
+    {
+      "question": "Do you offer payment plans?",
+      "answer": "Yes, we offer interest-free payment plans for balances over $500. Payment plans can be arranged through our billing department. Please call (555) 123-4567 ext. 2 to discuss options. We also accept CareCredit healthcare financing."
+    },
+    {
+      "question": "What if I don't have insurance?",
+      "answer": "We welcome self-pay patients. We offer a self-pay discount of 20% when payment is made in full at the time of service. Our staff can provide cost estimates before your appointment. We also offer payment plans for larger balances. Please contact our billing department at (555) 123-4567 ext. 2 to discuss your options."
+    },
+    {
+      "question": "Can I request a specific doctor?",
+      "answer": "Yes, you can request a specific provider when booking your appointment. Please note that availability varies by provider, and you may experience longer wait times for popular doctors. If you're a new patient, we recommend starting with any available provider for your initial consultation."
+    },
+    {
+      "question": "What should I do to prepare for my first visit?",
+      "answer": "To prepare for your first visit: (1) Complete new patient forms online at our website or arrive 15 minutes early, (2) Gather your medical history including past surgeries and chronic conditions, (3) List all current medications with dosages, (4) Write down any questions or concerns you want to discuss, (5) Bring your insurance card and photo ID, (6) If applicable, request medical records from previous providers to be sent to us before your appointment."
+    },
+    {
+      "question": "Do you have walk-in hours?",
+      "answer": "We operate primarily by appointment to ensure quality care and minimal wait times. However, we do have limited walk-in availability Monday-Friday from 8:00-9:00 AM for urgent concerns. Walk-ins are seen on a first-come, first-served basis. For urgent medical needs outside these hours, please call our office or visit an urgent care facility."
+    },
+    {
+      "question": "How do I access my medical records?",
+      "answer": "You can access your medical records through our secure patient portal at healthcareplus.com/portal. After your first visit, you'll receive login credentials via email. You can also request copies of your records by calling (555) 123-4567 or submitting a written request. There may be a small fee for printed copies."
+    },
+    {
+      "question": "What if I need to reschedule my appointment?",
+      "answer": "You can reschedule your appointment by: (1) Using the reschedule link in your confirmation email, (2) Logging into our patient portal, (3) Calling our office at (555) 123-4567. Please provide at least 24 hours notice to avoid cancellation fees. We'll do our best to find a new time that works for your schedule."
+    }
+  ]
+}
